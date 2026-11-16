@@ -1,0 +1,57 @@
+# HR Performance & Employee Analytics Dashboard | Power BI
+
+## Project Overview
+The HR Performance & Employee Analytics Dashboard is an interactive data visualization project developed using Microsoft Power BI. The dashboard provides insights into employee status, department distribution, work-life balance, gender distribution, employee satisfaction, engagement, performance, and training costs.
+
+The objective is to help understand workforce trends and support data-driven HR decisions.
+
+## Dashboard Preview
+![HR Analytics Dashboard](screenshots/hr_dashboard.png)
+
+## Key Performance Indicators (KPIs)
+- Total Employees: 3K
+- Active Employees: 2K
+- Terminated Employees: 387
+- Average Satisfaction: 3.03
+- Average Engagement: 2.94
+- Average Performance: 2.07
+
+## Key Dashboard Visualizations
+1. Employee Status Distribution – Active vs Terminated employees.
+2. Work-Life Balance Analysis – Employee count by work-life balance score and employee status.
+3. Department-wise Performance and Satisfaction – Comparison across departments.
+4. Department-wise Employee Distribution – Employee count across departments.
+5. Gender Distribution – Female and Male employee distribution.
+6. Average Training Cost by Department – Training cost comparison across departments.
+
+## Tools & Technologies
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Visualization
+- Data Analysis
+
+## Project Objectives
+- Analyze employee distribution and employment status.
+- Understand employee satisfaction and engagement.
+- Compare performance across departments.
+- Explore work-life balance patterns.
+- Analyze training costs across departments.
+- Present HR data through an interactive dashboard.
+
+## Repository Structure
+```text
+HR-Analytics-PowerBI-Dashboard/
+│
+├── HR_Analytics_Dashboard.pbix
+├── README.md
+└── screenshots/
+    └── hr_dashboard.png
+```
+
+## Author
+Akshika Tyagi  
+B.Tech – Computer Science Engineering
+
+## Project Category
+Human Resource Analytics | Business Intelligence | Data Visualization
